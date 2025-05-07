@@ -29,7 +29,7 @@ Frontend: HTML, CSS, JavaScript (or mobile app using Flutter/React Native)
 
 Backend: Node.js / Flask / Firebase Realtime Database
 
-<h3>##How It Works</h3>
+<h3>How It Works</h3>
 
 Step 1: Sensor detects changes in inventory (e.g., item picked or placed).
 
